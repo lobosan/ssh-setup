@@ -48,3 +48,18 @@ ssh -T git@github.com
 ```
 
 Type yes to accept the connection
+
+
+## Setup git username and email
+
+```shell
+git config --global user.name "Santiago Galindo"
+git config --global user.email "sp.galindoh@gmail.com"
+```
+
+
+## Verify git user name and email
+
+```shell
+git config --list
+```
