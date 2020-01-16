@@ -39,3 +39,12 @@ Press q to quit
 ## Go to GitHub Settings and add the public key
 
 https://github.com/settings/keys
+
+
+## Validate connection with github from local machine
+
+```shell
+ssh -T git@github.com
+```
+
+Type yes to accept the connection
