@@ -63,3 +63,7 @@ git config --global user.email "sp.galindoh@gmail.com"
 ```shell
 git config --list
 ```
+
+## Work with multiple accounts
+
+https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
